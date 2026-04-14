@@ -25,10 +25,10 @@
 
 <table>
   <tr>
-    <td align="center">Jyotiprakash Mallik</td>
-    <td align="center">Keshav Raj</td>
-    <td align="center">Krishanth S</td>
-    <td align="center">Tanvi Shinde</td>
+    <td align="center"><a href="https://github.com/jpmiitd"><strong>Jyotiprakash Mallik</strong></a><br><sub>@jpmiitd</sub></td>
+    <td align="center"><a href="https://github.com/KeshavRaj0019"><strong>Keshav Raj</strong></a><br><sub>@KeshavRaj0019</sub></td>
+    <td align="center"><a href="https://github.com/Krishanth-S-7"><strong>Krishanth S</strong></a><br><sub>@Krishanth-S-7</sub></td>
+    <td align="center"><a href="https://github.com/TanviShinde1729"><strong>Tanvi Shinde</strong></a><br><sub>@TanviShinde1729</sub></td>
   </tr>
 </table>
 
